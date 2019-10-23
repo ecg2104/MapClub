@@ -12,4 +12,4 @@ For GIS Crash Course, or other sessions using GIS please bring [QGIS](https://qg
 
 [GIS Crash Course](http://tinyurl.com/zhcyfox) - 9/10/19 & 10/10/19
 
-Exploring [Leaflet](https://leafletjs.com/)- 10/24/19
+[Exploring Leaflet](https://github.com/ecg2104/MapClub/tree/master/Fall19/Leaflet)- 10/24/19
