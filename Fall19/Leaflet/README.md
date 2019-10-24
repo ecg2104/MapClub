@@ -25,5 +25,5 @@ This week we will explore some introductory [Leaflet](https://leafletjs.com/) an
 
 ### Test Files
 
-[Optional](http://www.columbia.edu/acis/eds/gis/images/LeafletTestFiles.zip)
+[Optional data files](http://www.columbia.edu/acis/eds/gis/images/LeafletTestFiles.zip) - includes NYC subways and neighborhoods
 
