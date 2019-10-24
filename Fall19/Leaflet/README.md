@@ -10,6 +10,8 @@ This week we will explore some introductory [Leaflet](https://leafletjs.com/) an
 
 [API Reference](https://leafletjs.com/reference-1.5.0.html)
 
+[This page](http://leaflet-extras.github.io/leaflet-providers/preview/) has a great list of tile servers you can use in Leaflet - with code snippets!
+
 
 
 [QGIS2WEB plugin](https://github.com/tomchadwin/qgis2web)
