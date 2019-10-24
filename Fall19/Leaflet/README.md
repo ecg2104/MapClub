@@ -23,3 +23,7 @@ This week we will explore some introductory [Leaflet](https://leafletjs.com/) an
 
 [Instant interactive map designs with leaflet JavaScript library](https://clio.columbia.edu/catalog/14104321)
 
+### Test Files
+
+[Optional](http://www.columbia.edu/acis/eds/gis/images/LeafletTestFiles.zip.zip)
+
